@@ -40,6 +40,9 @@ The development process required innovative solutions to overcome challenges, su
 
 #### Credits
 Programming by Harshilkumar Jayswal
+
 Professor Jerome DiMarzio
+
 Module 8-3 Portfolio Journal 
+
 CS-360 Mobile Architecture and Programming @ SNHU
